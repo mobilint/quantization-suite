@@ -1,0 +1,4 @@
+checkpoint/*
+experiments/*
+*.ipynb
+compile/*
