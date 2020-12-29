@@ -1,3 +1,2 @@
 mobilint quantization suite
-
-from. 2020-Dec
+ver. 0.1 (beta)
